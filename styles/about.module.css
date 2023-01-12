@@ -1,0 +1,16 @@
+.header {
+    /* background-color: #000; */
+    color: red;
+    padding: 20px;
+    text-align: center;
+}
+.about{
+    font-size: 100px;
+    text-transform: capitalize;
+}
+.underline{
+    text-decoration: underline;
+}
+.fntwgt{
+    font-weight: bold;
+}

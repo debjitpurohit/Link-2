@@ -1,0 +1,10 @@
+.header {
+    /* background-color: #000; */
+    color: magenta;
+    padding: 20px;
+    text-align: center;
+}
+.cnct {
+    font-size: 100px;
+    text-transform: capitalize;
+}
