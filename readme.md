@@ -7,7 +7,7 @@
  1) npm i -g vercel
  2) type "vercel" 
 
- # cant able to deploy my app in vercel with Link Component
+ 
 
 
   😈START WORK WITH NEXT.JS TODAY 😈
